@@ -1,0 +1,23 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+}
+
+.iframe-wrapper {
+    display: flex;
+    justify-content: center;
+    
+   
+}
+
+iframe {
+    border: none; /* Remove the iframe border if needed */
+    justify-items: baseline;
+}
